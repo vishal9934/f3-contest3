@@ -1,0 +1,15 @@
+.container{
+    padding: 1rem 2rem;
+}
+#map {
+    height: 50%;
+    width: 100%;
+    margin-top: 1.5rem;
+   
+    
+}
+button{
+    padding: .5rem;
+    border-radius: 20px;
+}
+  
